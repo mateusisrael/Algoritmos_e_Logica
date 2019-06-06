@@ -5,8 +5,8 @@
 
 # Steps:
 # 1: seta a posição das 'pás'.
-# 2: Pecorrer a lista da direita para a esquerda.
-# 3: inverter posições.
+# 2: Percorrer a lista da direita para a esquerda.
+# 3: Inverter as posiões dos números na posição errada.
 
 from time import sleep
 
